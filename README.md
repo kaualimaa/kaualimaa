@@ -27,61 +27,51 @@ class Developer(Me):
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    alt="Python"/>
-</code>
+    alt="Python"/></code>
 <code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-    alt="TensorFlow"/>
-</code>
+    alt="TensorFlow"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
-    alt="Scikit-Learn"/>
-</code>
+    alt="Scikit-Learn"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-    alt="Pandas"/>
-</code>
+    alt="Pandas"/></code>
 <code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="OpenCV"/>
-</code>
+    alt="OpenCV"/></code>
 <code><img
     height="30"
     src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-    alt="Seaborn"/>
-</code>
+    alt="Seaborn"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-    alt="Docker"/>
-</code>
+    alt="Docker"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
-    alt="Postgres"/>
-</code>
+    alt="Postgres"/></code>
 <code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-    alt="Flask"/>
-</code>
+    alt="Flask"/></code>
 <code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="Postman"/>
-</code><code><img
+    alt="Postman"/></code>
+<code><img
     height="30"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="Linux"/>
-</code><code><img
+    alt="Linux"/></code>
+<code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="Git"/>
-</code>
+    alt="Git"/></code>
 </div>
 
 ----
