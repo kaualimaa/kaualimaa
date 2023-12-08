@@ -23,7 +23,7 @@ class Developer(Me):
 ----
 
 <h3 align="center">Languages and Tools:<h3/>
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
@@ -95,17 +95,12 @@ class Developer(Me):
                 alt="Github stats"
             />
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img
                 align="center"
-                src="https://github-readme-stats.vercel.app/api?username=kaualimaa&show_icons=true&locale=en&theme=dracula"
-                alt="Github stats"
+                src="https://github-readme-stats.vercel.app/api?username=kaualimaa&show_icons=true&locale=en&theme=dracula" alt="Github stats"
             />
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img
                 align="center"
