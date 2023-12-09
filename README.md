@@ -102,8 +102,11 @@ class Developer(Me):
 </table>
 
 ----
+<h3 align="center">Contact Me:<h3/>
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
+)](https://kaualima-portfolio.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kaua-lima/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kaualimadev)
