@@ -10,7 +10,7 @@ class Me:
         self.age = 17
         self.nationality = "Brazilian"
         self.gender = "Male"
-        self.email = "kaualimadev@gamil.com"
+        self.email = "kaualimadev@gmail.com"
         self.birthday = "July 29th"
 
 class Developer(Me):
