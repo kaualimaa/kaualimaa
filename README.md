@@ -7,7 +7,7 @@
 class Me:
     def __init__(self):
         self.name = "Kauã Lima"
-        self.age = 17
+        self.age = 18
         self.nationality = "Brazilian"
         self.gender = "Male"
         self.email = "kaualimadev@gmail.com"
@@ -16,7 +16,7 @@ class Me:
 class Developer(Me):
     def __init__(self):
         super().__init__()
-        self.languages = ["Python"]
+        self.languages = ["Python", "JavaScript", "TypeScript"]
         self.libraries = ["Scikit-Learn", "TensorFlow", "Matplotlib", "Pandas"]
 ```
 
