@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauã Lima</h1>
-<h3 align="center">A developer with a passion for mathematics, AI and technology</h3>
+<h3 align="center">A developer with a passion for mathematics, AI, and technology</h3>
 
 ------
 
