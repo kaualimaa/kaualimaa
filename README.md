@@ -3,7 +3,18 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F5F5F5&background=03001C00&center=true&width=435&lines=Always+learning+new+things;Python+Developer;AI+%26+Machine+Learning;Mathematics)](https://git.io/typing-svg)
+
+<p align="center" style="text-align= justify;">Hi everyone, I'm a Brazilian guy who loves technology, especially the field of AI and machine learning. I'm focused every day on being better than yesterday and always seeking to learn new things about mathematics, programming, AI, and machine learning.</p>
 </div>
+
+~~~python
+class Me:
+    def __init__(self):
+        self.name = "Kaua Lima"
+        self.age = 18
+        self.languages = ['Portuguese', 'English']
+        self.gender = "Male"
+~~~
 
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
