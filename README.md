@@ -47,7 +47,6 @@ class Me:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kaualimadev&theme=dracula) <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaualimadev&show_icons=true&theme=dracula) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaualimadev&layout=compact&theme=dracula) <br><br>
 </div>
